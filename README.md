@@ -1,0 +1,25 @@
+# test-admin
+
+## Installation
+
+```sh
+yarn
+```
+
+## Development
+
+Start the application in development mode by running:
+
+```sh
+yarn dev
+```
+
+## Production
+
+Build the application in production mode by running:
+
+```sh
+yarn build
+```
+
+
